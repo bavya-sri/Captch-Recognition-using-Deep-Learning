@@ -1,7 +1,6 @@
 #! /usr/bin/python
 # _*_ coding: utf-8 _*_
-__author__ = 'Jeffery'
-__date__ = '2018/11/25 19:04'
+
 import traceback
 import tensorflow as tf
 from load_data import get_batch_data

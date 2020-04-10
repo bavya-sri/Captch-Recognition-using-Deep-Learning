@@ -1,7 +1,5 @@
 #! /usr/bin/python
 # _*_ coding: utf-8 _*_
-__author__ = 'Jeffery'
-__date__ = '2018/11/26 15:01'
 
 
 import warnings
